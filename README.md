@@ -2,4 +2,4 @@
 cloning test1
 
 local mod
-jh
+server mod
